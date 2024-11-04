@@ -1,0 +1,166 @@
+.mainContainer {
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid lightgray;
+    width: 335px;
+    height: 600px;
+    margin-left: 510px;
+}
+
+.text {
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.imageDivAndText{
+    display: flex;
+    flex-direction: row;
+    border-radius: 6px;
+    margin-left: 30px;
+    height: 35px;
+    width: 270px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    background-color: #1877f2;
+    justify-content: space-around;
+    border: none;
+    padding: 3px 3px;
+}
+.imgDiv{
+    margin-left: 50px;
+}
+.textDiv{
+    margin-right: 37px;
+    margin-top: 4px;
+}
+
+
+/* .fbButton {
+    display: flex;
+    flex-direction: row;
+}
+
+.imgDiv {
+    margin-left: -40px;
+}
+
+.textDiv {
+    margin-left: 90px;
+} */
+
+.orText {
+    font-size: 13px;
+}
+.nameDiv{
+    height: 35px;
+    width: 270px;
+    font-size: 13px;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    /* border-color: lightgray; */
+    /* border-top-color: lightgray; */
+}
+.passwordDiv{
+    height: 35px;
+    width: 270px;
+    margin-top: 10px;
+    font-size: 13px;
+    border: 1px solid lightgray;
+    background-color: whitesmoke;
+}
+.fullName{
+    height: 35px;
+    width: 270px;
+    margin-top: 10px;
+    font-size: 13px;
+    border: 1px solid lightgray;
+    background-color: whitesmoke;
+}
+.userName{
+    height: 35px;
+    width: 270px;
+    margin-top: 10px;
+    font-size: 13px;
+    border: 1px solid lightgray;
+    background-color: whitesmoke;
+}
+.firstTextData{
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.firstTextDataExtra{
+    margin-top: -15px;
+    font-size: 12px;
+    margin-left: 36px;
+    margin-right: 36px;
+}
+span{
+    color: blue;
+}
+.secondDivData{
+    margin-top: -13px;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-right: -41px;
+}
+.buttonDiv{
+    margin-top: 10px;
+    border: 1px solid #1877f2;
+    width: 270px;
+    height: 30px;
+    border-radius: 6px;
+    text-align: center;
+    margin-left: 34px;
+    color: white;
+    background-color: #1877f2;
+}
+.haveAnAccount{
+    margin-top: 10px;
+    
+    border: 1px solid lightgray;
+    width: 335px;
+    height: 65px;
+    margin-left: 510px;
+}
+.haveAnAccountText{
+    text-align: center;
+    margin-top: 20px;
+}
+.getTheAppText{
+    margin-left: 640px;
+    margin-top: 10px;
+}
+.imageDiv{
+    display: flex;
+    flex-direction: row;
+    margin-left: 520px;
+}
+.footerBar{
+    display: flex;
+  flex-direction: row;
+  /* background-color: aqua; */
+  margin-top: 50px;
+  margin-left: 260px;
+  font-size: 13px;
+  justify-content: space-evenly;
+  margin-right: 330px;
+  text-align: center;
+  opacity: 0.6;
+}
+.secondFooterBar{
+    display: flex;
+  flex-direction: row;
+  /* background-color: aqua; */
+  /* margin-top: 250px; */
+  margin-left: 560px;
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: 20px;
+  /* justify-content: space-around; */
+  margin-right: 330px;
+  text-align: center;
+  opacity: 0.6;
+}

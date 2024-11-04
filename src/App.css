@@ -1,0 +1,121 @@
+.mainForm{
+margin-top: 10px;
+  text-align: center;
+  border: 1px solid lightgray;
+  width: 325px;
+  height: 390px;
+  margin-left: 510px;
+
+  
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.firstDiv{
+  margin-top: 40px;
+  height: 35px;
+  width: 260px;
+  padding: 5px;
+  font-size: 10px;
+  
+  /* transition: all 0.2s; pointer-events: none; */
+  /* background-color: lightgray; */
+  /* border-color: lightgray; */
+  
+  
+}
+.secondDiv{
+  height: 35px;
+  width: 260px;
+  padding: 5px;
+  font-size: 10px;
+  margin-top: 8px;
+}
+.buttonData{
+  height: 33px;
+  width: 260px;
+  /* padding: 4px; */
+  margin-top: 20px;
+  border-radius: 9px;
+ color: white;
+ background-color: #1877F2;
+ border: none;
+}
+.orText{
+  font-size: 13px;
+}
+.fbLogo{
+  display: flex;
+  flex-direction: row;
+  margin-left: 85px;
+}
+.logoText{
+  margin-left: 8px;
+  color: darkblue;
+  list-style: none;
+  /* margin */
+  /* text-decoration: none; */
+  /* text-decoration-skip: inherit; */
+}
+.forgotPassword{
+  margin-top: 15px;
+  font-size: 14px;
+  color:#1877f2 ;
+}
+.dontHaveAnAccountDiv{
+  /* margin-top:70px; */
+  text-align: center;
+  /* border: 2px solid red; */
+  /* width: 330px; */
+  /* height: 150px; */
+  
+  
+}
+.dontHaveAnAccount{
+  margin-top: 48px;
+  height: 60px;
+  width: 325px;
+  padding: 2px;
+  border: 1px solid lightgray;
+  margin-left: -1px;
+  padding-top: 20px;
+  font-size: 14px;
+  
+}
+span{
+  color:#1877f2 ;
+  /* font-weight: bold; */
+}
+.figuresDiv{
+  display: flex;
+  flex-direction: row;
+  margin-left: 5px;
+}
+.footerSection{
+  display: flex;
+  flex-direction: row;
+  /* background-color: aqua; */
+  margin-top: 250px;
+  margin-left: 260px;
+  font-size: 13px;
+  justify-content: space-evenly;
+  margin-right: 330px;
+  text-align: center;
+  opacity: 0.6;
+}
+.secondFooter{
+  display: flex;
+  flex-direction: row;
+  /* background-color: aqua; */
+  /* margin-top: 250px; */
+  margin-left: 560px;
+  font-size: 12px;
+  font-weight: 20px;
+  /* justify-content: space-around; */
+  margin-right: 330px;
+  text-align: center;
+  opacity: 0.6;
+  
+}
+
+
+
